@@ -1,3 +1,4 @@
+// tmdb.js: TMDB now_playing 응답
 const TMDB = {
     "dates": { "maximum": "2026-11-25", "minimum": "2026-10-14" },
     "page": 1,
